@@ -1,11 +1,13 @@
 INGRENDIENTES
+
 1. HARINA
 2. HUEVOS
 3. TOMATE
 4. SALSAS
-5. POLLO 
+5. POLLO
 6. CHAMPIÑONES
 7. QUESO
 8. SALA
 9. OREGANO
- <<endl;
+10. perejil
+11. pasta tomate
