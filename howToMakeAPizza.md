@@ -6,3 +6,4 @@
 6. 200 gr. de queso mozzarella rallado
 7. Oregano
 8. Salami
+9. Champiñon
