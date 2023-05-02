@@ -20,3 +20,4 @@ PREPARACIÓN DE LA PIZZA:
 6. añadimos la cebolla y el pimiento que teníamos reservado (es importante escurrirlo bien y que llene la pizza de aceite).
 7. Añadimos los trozos de pollo, los trozos de champñones, tambien los de salami, y por último cubrimos con el queso rallado restante.
 Metemos la pizza en la parte más bajo del horno y la horneamos a 250º C durante unos 10-15 minutos. ¡Que la disfrutes!
+
